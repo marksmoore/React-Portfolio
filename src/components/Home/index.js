@@ -8,7 +8,7 @@ function Home() {
                 <h1 className="titles">
                     <u>Mark Steven Moore</u>
                 </h1>
-                <h2 className="titles">Round Rock based Engineer, Web Developer</h2>
+                <h2 className="titles">Austin based Engineer, Web Developer</h2>
             </div>
         </section>
     );

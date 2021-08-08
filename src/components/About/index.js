@@ -1,5 +1,5 @@
 import React from 'react';
-import myPhoto from "../../assets/Mark_med.jpg";
+import myPhoto from '../../docs/Mark_med.jpg';
 
 function About() {
 
