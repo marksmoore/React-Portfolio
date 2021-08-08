@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Work Day Scheduler",
-        "image": "./src/docs/raw/main/Work-Day-Scheduler.jpg",
+        "image": "https://github.com/marksmoore/react-portfolio/raw/main/src/docs/Work-Day-Scheduler.jpg",
         "github": "https://github.com/marksmoore/work-day-scheduler",
         "deploy": "https://marksmoore.github.io/Work-Day-Scheduler/",
         "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"

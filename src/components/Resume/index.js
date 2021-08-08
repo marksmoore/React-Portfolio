@@ -1,4 +1,5 @@
 import React from "react";
+import myResume from "../../docs/MarkSMooreResume.docx";
 
 function Resume() {
   return (
@@ -11,8 +12,8 @@ function Resume() {
           <h2 className="top-title">Mark S. Moore</h2>
           <ul>
             <li>
-              Core competencies in enterpirse content management, full-stack web
-              development, data architecture, and managing integrations.
+              Core competencies in Enterpirse Content Management and full-stack Web
+              Development.
             </li>
           </ul>
 
@@ -24,13 +25,8 @@ function Resume() {
               />
             </a>
           </p>
-
-          <a
-            href="https://github.com/marksmoore/react-portfolio/raw/main/docs/MarkSMooreResume.docx"
-            class="link"
-          >
-            Download Resume
-          </a>
+          <a className="resume-button" href={myResume}><button>Download my Resume</button></a>
+         
         </div>
       </div>
 
@@ -39,9 +35,7 @@ function Resume() {
           <h2 className="top-title">Proficiencies</h2>
           <ul>
             <li>
-            SDL Tridion, Adobe Experience Manager (6.5, As a cloud Service), C#.NET, ASP.NET, JAVA,<br />
-            HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,<br />
-            Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating.
+            HTML, CSS, JavaScript, jQuery, React.js, IndexedDB, Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating.
             </li>
           </ul>
         </div>
