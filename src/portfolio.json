@@ -9,6 +9,14 @@
     },
     {
         "id": 2,
+        "name": "Sofa Spud",
+        "image": "https://user-images.githubusercontent.com/79726069/131258624-7afeec32-51c4-4a09-a93d-7b02dbe8a166.PNG",
+        "github": "https://github.com/godwinbw/sofa-spud",
+        "deploy": "https://protected-earth-79211.herokuapp.com/",
+        "topics": "MongoDB/React/Node.js/graphQL/Heroku"
+    },
+    {
+        "id": 3,
         "name": "goodnewsly",
         "image": "https://raw.githubusercontent.com/godwinbw/goodnewsly/main/goodnewsly_screenshot.png",
         "github": "https://github.com/godwinbw/goodnewsly",
@@ -16,7 +24,7 @@
         "topics": "HTML/JavaScript/CSS"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Note Taker",
         "image": "https://github.com/marksmoore/Note-Taker/raw/main/Notes.jpg",
         "github": "https://github.com/marksmoore/Note-Taker",
@@ -24,7 +32,7 @@
         "topics": "HTML/CSS/JavaScript/Heroku/NPM/Express/"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Budget Tracker",
         "image": "https://github.com/marksmoore/budget-tracker/raw/main/Budget-Tracker.jpg",
         "github": "https://github.com/marksmoore/budget-tracker",
@@ -32,7 +40,7 @@
         "topics": "Node.js/Mongoose/MongoDB/JavaScript"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Work Day Scheduler",
         "image": "https://github.com/marksmoore/react-portfolio/raw/main/src/docs/Work-Day-Scheduler.jpg",
         "github": "https://github.com/marksmoore/work-day-scheduler",
