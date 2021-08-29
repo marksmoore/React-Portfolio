@@ -5,7 +5,7 @@
 
 ## Table of Contents
 * [User Story](#User-Story)
-* [Acceptance Criteria](#Acceptance-Critera)
+* [Acceptance Criteria](#Acceptance-Criteria)
 * [Example](#Example)
 * [License](#License)
 * [Technologies Used](#Technologies-Used)
